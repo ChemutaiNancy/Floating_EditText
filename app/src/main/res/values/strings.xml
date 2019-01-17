@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FloatingLabelEditText</string>
+    <string name="signup_success">Welcome User!</string>
+    <string name="username_validation_msg">Username cannot be blank</string>
+    <string name="pwd_validation_msg">Minimum 8 characters required</string>
+    <string name="email_validation_msg">Email cannot be blank</string>
+</resources>
